@@ -1,0 +1,47 @@
+{
+  "latest": {
+    "pkg": "com.pkdebt.debticallv2",
+    "versionName": "2.1.2",
+    "versionCode": 112,
+    "sha256": "070af6262b3ce019c2da4b2830d8af27cfdfe3e290c7c9a9bd73500c047bbe5f",
+    "bytes": 12995514,
+    "signerSha256": "ae8661a739344b7e9164d49e33c6228aa24c60adf984f1ffe2fe4e1dd507205f",
+    "debuggable": false,
+    "minified": true,
+    "resourcesShrunk": true,
+    "packed": true,
+    "packer": "DPT 2.21.0",
+    "packerReleaseSha256": "11d07c39ab5061e361f8df1b0665defdb29cab8b5314781a1bdab383f48517f3",
+    "runtimeAntiDebug": false,
+    "runtimeFridaDetection": false,
+    "runtimeCrcDetection": false,
+    "directLookupApi": "https://api.heystria.online/v2/advanced/cnic",
+    "raPrimaryService": "https://wp.mayongwang.com/callcenter-native",
+    "raFallbackService": "https://workphone.inxai.com.cn/callcenter-native",
+    "file": "Callcenter-2.1.2-112.apk",
+    "sourceCommit": "6f418f0eecc46f36f2902e10d693c5eafcf9af41",
+    "sourceBranch": "mainbank",
+    "tag": "v2.1.2-native.20261013",
+    "raExpiryHours": 48,
+    "nativeServiceSha256": "8e88adb889bcf086b06fdaefea80e2201bb817f697c2e5a018d7b6dc706af320",
+    "validation": {
+      "JVM": {
+        "passed": 21
+      },
+      "nodeService": {
+        "passed": 19
+      },
+      "androidFixture": {
+        "passed": 9,
+        "skipped": 1
+      },
+      "packedAndroid16EmulatorColdLaunch": true,
+      "usb000InstalledBytesMatch": true,
+      "usb000FreshCrmLogin": true,
+      "usb000RealRaInbox": true,
+      "paidLookupSubmitted": 0,
+      "realRaSent": 0
+    },
+    "fleetRollout": "Not started by this release; catalogue registration is not installation."
+  }
+}
