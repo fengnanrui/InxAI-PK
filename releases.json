@@ -1,20 +1,21 @@
 {
   "latest": {
     "pkg": "com.pkdebt.debticallv2",
-    "versionName": "2.1.0",
-    "versionCode": 110,
-    "sha256": "3e611a09e714dc87ecafe511b94a8fef4116aa2285a1c799fb2b07b659910e78",
-    "bytes": 8495702,
+    "versionName": "2.1.1",
+    "versionCode": 111,
+    "sha256": "ead84764aba5b921b6685786e7a076606c165e1f0fcb4c698601822338da2888",
+    "bytes": 8497756,
     "signerSha256": "ae8661a739344b7e9164d49e33c6228aa24c60adf984f1ffe2fe4e1dd507205f",
     "debuggable": false,
     "minified": true,
     "resourcesShrunk": true,
     "primaryService": "https://wp.mayongwang.com/callcenter-native",
     "fallbackService": "https://workphone.inxai.com.cn/callcenter-native",
-    "file": "Callcenter-2.1.0-110.apk",
-    "sourceCommit": "bf99820cb894e996e9082fa2f947c28301a579b7",
+    "file": "Callcenter-2.1.1-111.apk",
+    "sourceCommit": "b26242acfe6d08723e8185c7ca400a56c5e239c0",
     "sourceBranch": "mainbank",
-    "catalogId": 551,
-    "tag": "v2.1.0-native.20261013"
+    "tag": "v2.1.1-native.20261013",
+    "raExpiryHours": 48,
+    "nativeServiceSha256": "70a65b2a751f6843b707e1f991b5ce848fa4f64f3d05ff7cda2b8925efd49c48"
   }
 }
